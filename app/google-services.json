@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510810744989",
+    "firebase_url": "https://uptowndeal-1499526296879.firebaseio.com",
+    "project_id": "uptowndeal-1499526296879",
+    "storage_bucket": "uptowndeal-1499526296879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510810744989:android:00bd4660237ffc0583cc74",
+        "android_client_info": {
+          "package_name": "com.example.apptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510810744989-7mg27t6rjrg84lljtotl2a6ovfk03ffh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apptracker",
+            "certificate_hash": "d4435159b2d21a3afc7015d2fe0139cdc2e2cd26"
+          }
+        },
+        {
+          "client_id": "510810744989-tvm3n4lastgtfgs0r86eck0n6vl3si25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNxsZOsgLpC_uwejc9s1v85RmuOQElvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510810744989-tvm3n4lastgtfgs0r86eck0n6vl3si25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
